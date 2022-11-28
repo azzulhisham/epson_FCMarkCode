@@ -44,14 +44,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FC_MarkCode.exe" size="3654144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FC_MarkCode.exe" size="3644416">
       <assemblyIdentity name="FC_MarkCode" version="2018.2.8.6" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>62LNto0is83Hs6Q7dmo2Ze9n4Xg=</dsig:DigestValue>
+        <dsig:DigestValue>pOvnNiWKtrbrs6Nmy3/GNwDUFPc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -64,13 +64,13 @@
       <dsig:DigestValue>1wCakhDw4wcSze6hW2Yr1qHuFhI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FC_MarkCode.exe.config" size="2394">
+  <file name="FC_MarkCode.exe.config" size="2399">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>jOUWweZYPKXC3Q9nEBWZK1lhAoM=</dsig:DigestValue>
+      <dsig:DigestValue>Zp5X01TFhGh3eaL8wRrz7O9ybV0=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

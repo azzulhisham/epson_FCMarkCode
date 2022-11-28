@@ -292,10 +292,10 @@
     <WebReferences Include="Web References\" />
   </ItemGroup>
   <ItemGroup>
-    <WebReferenceUrl Include="http://localhost/lmservices/lmservices.asmx">
+    <WebReferenceUrl Include="http://172.16.59.254/az_services/lmservices.asmx">
       <UrlBehavior>Dynamic</UrlBehavior>
       <RelPath>Web References\ETMYMNET\</RelPath>
-      <UpdateFromURL>http://localhost/lmservices/lmservices.asmx</UpdateFromURL>
+      <UpdateFromURL>http://172.16.59.254/az_services/lmservices.asmx</UpdateFromURL>
       <ServiceLocationURL>
       </ServiceLocationURL>
       <CachedDynamicPropName>

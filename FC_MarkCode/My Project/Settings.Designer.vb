@@ -57,7 +57,7 @@ Namespace My
         <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.WebServiceUrl),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("http://localhost/lmservices/lmservices.asmx")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("http://172.16.59.254/az_services/lmservices.asmx")>  _
         Public ReadOnly Property FC_MarkCode_localhost_Service1() As String
             Get
                 Return CType(Me("FC_MarkCode_localhost_Service1"),String)

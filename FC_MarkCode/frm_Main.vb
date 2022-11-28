@@ -105,7 +105,7 @@ Public Class frm_Main
 
             With .tmr_WS
                 .Interval = 30 * 1000
-                '.Enabled = True
+                .Enabled = True
             End With
 
             With .tmr_Marking
