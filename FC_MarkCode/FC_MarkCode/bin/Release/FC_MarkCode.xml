@@ -1,0 +1,117 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FC_MarkCode
+</name>
+</assembly>
+<members>
+<member name="M:FC_MarkCode.ETMYMNET.az_Services.#ctor">
+	<remarks/>
+</member><member name="E:FC_MarkCode.ETMYMNET.az_Services.HelloWorldCompleted">
+	<remarks/>
+</member><member name="E:FC_MarkCode.ETMYMNET.az_Services.CheckIMICompleted">
+	<remarks/>
+</member><member name="E:FC_MarkCode.ETMYMNET.az_Services.AboutMeCompleted">
+	<remarks/>
+</member><member name="E:FC_MarkCode.ETMYMNET.az_Services.azWeekCode_FCCompleted">
+	<remarks/>
+</member><member name="E:FC_MarkCode.ETMYMNET.az_Services.azWeekCodeEx_FCCompleted">
+	<remarks/>
+</member><member name="E:FC_MarkCode.ETMYMNET.az_Services.UpdateRecordsCompleted">
+	<remarks/>
+</member><member name="E:FC_MarkCode.ETMYMNET.az_Services.GetMarkingCodeCompleted">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.HelloWorld">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.HelloWorldAsync">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.HelloWorldAsync(System.Object)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.CheckIMI(System.String)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.CheckIMIAsync(System.String)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.CheckIMIAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.AboutMe">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.AboutMeAsync">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.AboutMeAsync(System.Object)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.azWeekCode_FC(System.String)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.azWeekCode_FCAsync(System.String)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.azWeekCode_FCAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.azWeekCodeEx_FC(System.String,System.String)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.azWeekCodeEx_FCAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.azWeekCodeEx_FCAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.UpdateRecords(System.String[])">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.UpdateRecordsAsync(System.String[])">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.UpdateRecordsAsync(System.String[],System.Object)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.GetMarkingCode(System.String,System.String,System.String[]@)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.GetMarkingCodeAsync(System.String,System.String,System.String[])">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.GetMarkingCodeAsync(System.String,System.String,System.String[],System.Object)">
+	<remarks/>
+</member><member name="M:FC_MarkCode.ETMYMNET.az_Services.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.az_Services">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.HelloWorldCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FC_MarkCode.ETMYMNET.HelloWorldCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.HelloWorldCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.CheckIMICompletedEventHandler">
+	<remarks/>
+</member><member name="P:FC_MarkCode.ETMYMNET.CheckIMICompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.CheckIMICompletedEventArgs">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.AboutMeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FC_MarkCode.ETMYMNET.AboutMeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.AboutMeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.azWeekCode_FCCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FC_MarkCode.ETMYMNET.azWeekCode_FCCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.azWeekCode_FCCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.azWeekCodeEx_FCCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FC_MarkCode.ETMYMNET.azWeekCodeEx_FCCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.azWeekCodeEx_FCCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.UpdateRecordsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FC_MarkCode.ETMYMNET.UpdateRecordsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.UpdateRecordsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.GetMarkingCodeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FC_MarkCode.ETMYMNET.GetMarkingCodeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="P:FC_MarkCode.ETMYMNET.GetMarkingCodeCompletedEventArgs.RetData">
+	<remarks/>
+</member><member name="T:FC_MarkCode.ETMYMNET.GetMarkingCodeCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

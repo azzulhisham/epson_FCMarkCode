@@ -1,0 +1,29 @@
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.exe.config
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.exe
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.pdb
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.xml
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\obj\Release\ResolveAssemblyReference.cache
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\obj\Release\WindowsApplication1.Form1.resources
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\obj\Release\WindowsApplication1.Resources.resources
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.vbproj.GenerateResource.Cache
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.exe
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.xml
+E:\AI\ASP\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.pdb
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.exe.config
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.exe
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.XmlSerializers.dll
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.pdb
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.xml
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\ResolveAssemblyReference.cache
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\WindowsApplication1.Form1.resources
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\WindowsApplication1.Resources.resources
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.vbproj.GenerateResource.Cache
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.exe
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.xml
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.pdb
+C:\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.XmlSerializers.dll
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\UseWebService\UseWebService\UseWebService\bin\Release\UseWebService.exe.config
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.exe
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.xml
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.pdb
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\UseWebService\UseWebService\UseWebService\obj\Release\UseWebService.XmlSerializers.dll

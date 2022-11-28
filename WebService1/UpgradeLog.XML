@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WebService1">
+</Property><Property Name="Solution File" Value="C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\WebService1.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\WebService1.suo">
+</Property><Property Name="Date" Value="01 September 2016">
+</Property><Property Name="Time" Value="22:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WebService1.sln" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WebService1.suo" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1.suo">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\WebService1.vbproj" Description="Project file successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\WebService1.vbproj">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\WebService1.vbproj.user" Description="Project user file successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\WebService1.vbproj.user">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\Service1.asmx.vb" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\Service1.asmx.vb">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\Web References\localhost\Reference.vb" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\Web References\localhost\Reference.vb">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\Web References\localhost\Service1.disco" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\Web References\localhost\Service1.disco">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\Web References\localhost\Reference.map" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\Web References\localhost\Reference.map">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\Web References\localhost\Service1.wsdl" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\Web References\localhost\Service1.wsdl">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\Service1.asmx" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\Service1.asmx">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\Web.config" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\Web.config">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\WebService1\Backup\WebService1\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\WebService1.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WebService1" Source="WebService1\WebService1.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WebService1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WebService1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WebService1" Source="WebService1\WebService1.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

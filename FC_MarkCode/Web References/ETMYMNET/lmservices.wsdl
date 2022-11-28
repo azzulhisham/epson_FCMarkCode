@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://zulhisham-tan/az_services/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://zulhisham-tan/az_services/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://zulhisham-tan/az_services/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerTimeStamp">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetServerTimeStampResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetServerTimeStampResult" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCode">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IMINo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCodeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetProductCodeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckIMI">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IMINo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckIMIResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckIMIResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AboutMe">
+        <s:complexType />
+      </s:element>
+      <s:element name="AboutMeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AboutMeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="WeekCode">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sFormat" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="WeekCodeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="WeekCodeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="azWeekCode_FC">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sFormat" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="azWeekCode_FCResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="azWeekCode_FCResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="az_FCweekcode_ad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Lot_No" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SpecNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RetData" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="az_FCweekcode_adResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="az_FCweekcode_adResult" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="RetData" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="az_FCweekcode_ad_test">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Lot_No" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SpecNo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="az_FCweekcode_ad_testResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="az_FCweekcode_ad_testResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="azWeekCodeEx_FC">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SpecNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sFormat" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="azWeekCodeEx_FCResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="azWeekCodeEx_FCResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateRecords">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="MarkingRec" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateRecordsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpdateRecordsResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddOrUpdateRecords">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="MarkingRec" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AddOrUpdateRecordsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AddOrUpdateRecordsResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Upload_BCC72_CntData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rec" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Upload_BCC72_CntDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Upload_BCC72_CntDataResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMarkingCode">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Lot_No" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="MI_Spec" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RetData" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetMarkingCodeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetMarkingCodeResult" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="RetData" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="az_SDMarking_ad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Lot_No" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SpecNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RetData" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="az_SDMarking_adResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="az_SDMarking_adResult" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="RetData" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetServerTimeStampSoapIn">
+    <wsdl:part name="parameters" element="tns:GetServerTimeStamp" />
+  </wsdl:message>
+  <wsdl:message name="GetServerTimeStampSoapOut">
+    <wsdl:part name="parameters" element="tns:GetServerTimeStampResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCodeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetProductCode" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCodeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetProductCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckIMISoapIn">
+    <wsdl:part name="parameters" element="tns:CheckIMI" />
+  </wsdl:message>
+  <wsdl:message name="CheckIMISoapOut">
+    <wsdl:part name="parameters" element="tns:CheckIMIResponse" />
+  </wsdl:message>
+  <wsdl:message name="AboutMeSoapIn">
+    <wsdl:part name="parameters" element="tns:AboutMe" />
+  </wsdl:message>
+  <wsdl:message name="AboutMeSoapOut">
+    <wsdl:part name="parameters" element="tns:AboutMeResponse" />
+  </wsdl:message>
+  <wsdl:message name="WeekCodeSoapIn">
+    <wsdl:part name="parameters" element="tns:WeekCode" />
+  </wsdl:message>
+  <wsdl:message name="WeekCodeSoapOut">
+    <wsdl:part name="parameters" element="tns:WeekCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="azWeekCode_FCSoapIn">
+    <wsdl:part name="parameters" element="tns:azWeekCode_FC" />
+  </wsdl:message>
+  <wsdl:message name="azWeekCode_FCSoapOut">
+    <wsdl:part name="parameters" element="tns:azWeekCode_FCResponse" />
+  </wsdl:message>
+  <wsdl:message name="az_FCweekcode_adSoapIn">
+    <wsdl:part name="parameters" element="tns:az_FCweekcode_ad" />
+  </wsdl:message>
+  <wsdl:message name="az_FCweekcode_adSoapOut">
+    <wsdl:part name="parameters" element="tns:az_FCweekcode_adResponse" />
+  </wsdl:message>
+  <wsdl:message name="az_FCweekcode_ad_testSoapIn">
+    <wsdl:part name="parameters" element="tns:az_FCweekcode_ad_test" />
+  </wsdl:message>
+  <wsdl:message name="az_FCweekcode_ad_testSoapOut">
+    <wsdl:part name="parameters" element="tns:az_FCweekcode_ad_testResponse" />
+  </wsdl:message>
+  <wsdl:message name="azWeekCodeEx_FCSoapIn">
+    <wsdl:part name="parameters" element="tns:azWeekCodeEx_FC" />
+  </wsdl:message>
+  <wsdl:message name="azWeekCodeEx_FCSoapOut">
+    <wsdl:part name="parameters" element="tns:azWeekCodeEx_FCResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateRecordsSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateRecords" />
+  </wsdl:message>
+  <wsdl:message name="UpdateRecordsSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateRecordsResponse" />
+  </wsdl:message>
+  <wsdl:message name="AddOrUpdateRecordsSoapIn">
+    <wsdl:part name="parameters" element="tns:AddOrUpdateRecords" />
+  </wsdl:message>
+  <wsdl:message name="AddOrUpdateRecordsSoapOut">
+    <wsdl:part name="parameters" element="tns:AddOrUpdateRecordsResponse" />
+  </wsdl:message>
+  <wsdl:message name="Upload_BCC72_CntDataSoapIn">
+    <wsdl:part name="parameters" element="tns:Upload_BCC72_CntData" />
+  </wsdl:message>
+  <wsdl:message name="Upload_BCC72_CntDataSoapOut">
+    <wsdl:part name="parameters" element="tns:Upload_BCC72_CntDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetMarkingCodeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetMarkingCode" />
+  </wsdl:message>
+  <wsdl:message name="GetMarkingCodeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetMarkingCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="az_SDMarking_adSoapIn">
+    <wsdl:part name="parameters" element="tns:az_SDMarking_ad" />
+  </wsdl:message>
+  <wsdl:message name="az_SDMarking_adSoapOut">
+    <wsdl:part name="parameters" element="tns:az_SDMarking_adResponse" />
+  </wsdl:message>
+  <wsdl:portType name="az_ServicesSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Returns 'Hello World'... </wsdl:documentation>
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetServerTimeStamp">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Return Server Timestamp...</wsdl:documentation>
+      <wsdl:input message="tns:GetServerTimeStampSoapIn" />
+      <wsdl:output message="tns:GetServerTimeStampSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCode">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Return PX Product Code or Name...</wsdl:documentation>
+      <wsdl:input message="tns:GetProductCodeSoapIn" />
+      <wsdl:output message="tns:GetProductCodeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckIMI">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Returns TRUE/FALSE on detecting the spec. file path... </wsdl:documentation>
+      <wsdl:input message="tns:CheckIMISoapIn" />
+      <wsdl:output message="tns:CheckIMISoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AboutMe">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Returns the information about this services... </wsdl:documentation>
+      <wsdl:input message="tns:AboutMeSoapIn" />
+      <wsdl:output message="tns:AboutMeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="WeekCode">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Returns WeekCode... </wsdl:documentation>
+      <wsdl:input message="tns:WeekCodeSoapIn" />
+      <wsdl:output message="tns:WeekCodeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="azWeekCode_FC">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Return A Week Code</wsdl:documentation>
+      <wsdl:input message="tns:azWeekCode_FCSoapIn" />
+      <wsdl:output message="tns:azWeekCode_FCSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="az_FCweekcode_ad">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Return A Week Code For FC Package (Advance Version)</wsdl:documentation>
+      <wsdl:input message="tns:az_FCweekcode_adSoapIn" />
+      <wsdl:output message="tns:az_FCweekcode_adSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="az_FCweekcode_ad_test">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Return A Week Code For FC Package (Advance Version)</wsdl:documentation>
+      <wsdl:input message="tns:az_FCweekcode_ad_testSoapIn" />
+      <wsdl:output message="tns:az_FCweekcode_ad_testSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="azWeekCodeEx_FC">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Return A Week Code For FC Package (Extended Version)</wsdl:documentation>
+      <wsdl:input message="tns:azWeekCodeEx_FCSoapIn" />
+      <wsdl:output message="tns:azWeekCodeEx_FCSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRecords">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Save Marking Records into SQL Server... </wsdl:documentation>
+      <wsdl:input message="tns:UpdateRecordsSoapIn" />
+      <wsdl:output message="tns:UpdateRecordsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AddOrUpdateRecords">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Insert Or Update Marking Records into SQL Server... </wsdl:documentation>
+      <wsdl:input message="tns:AddOrUpdateRecordsSoapIn" />
+      <wsdl:output message="tns:AddOrUpdateRecordsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Upload_BCC72_CntData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Upload BCC72 Counting Data into SQL Server &amp; NetTerm Directories... </wsdl:documentation>
+      <wsdl:input message="tns:Upload_BCC72_CntDataSoapIn" />
+      <wsdl:output message="tns:Upload_BCC72_CntDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMarkingCode">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Returns ETMY Marking Code.</wsdl:documentation>
+      <wsdl:input message="tns:GetMarkingCodeSoapIn" />
+      <wsdl:output message="tns:GetMarkingCodeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="az_SDMarking_ad">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Return A Marking Code For SD Package (Advance Version)</wsdl:documentation>
+      <wsdl:input message="tns:az_SDMarking_adSoapIn" />
+      <wsdl:output message="tns:az_SDMarking_adSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="az_ServicesSoap" type="tns:az_ServicesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerTimeStamp">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/GetServerTimeStamp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCode">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/GetProductCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckIMI">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/CheckIMI" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AboutMe">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/AboutMe" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WeekCode">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/WeekCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="azWeekCode_FC">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/azWeekCode_FC" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="az_FCweekcode_ad">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/az_FCweekcode_ad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="az_FCweekcode_ad_test">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/az_FCweekcode_ad_test" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="azWeekCodeEx_FC">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/azWeekCodeEx_FC" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRecords">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/UpdateRecords" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOrUpdateRecords">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/AddOrUpdateRecords" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Upload_BCC72_CntData">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/Upload_BCC72_CntData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMarkingCode">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/GetMarkingCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="az_SDMarking_ad">
+      <soap:operation soapAction="http://zulhisham-tan/az_services/az_SDMarking_ad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="az_ServicesSoap12" type="tns:az_ServicesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerTimeStamp">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/GetServerTimeStamp" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCode">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/GetProductCode" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckIMI">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/CheckIMI" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AboutMe">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/AboutMe" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="WeekCode">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/WeekCode" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="azWeekCode_FC">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/azWeekCode_FC" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="az_FCweekcode_ad">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/az_FCweekcode_ad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="az_FCweekcode_ad_test">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/az_FCweekcode_ad_test" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="azWeekCodeEx_FC">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/azWeekCodeEx_FC" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateRecords">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/UpdateRecords" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOrUpdateRecords">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/AddOrUpdateRecords" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Upload_BCC72_CntData">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/Upload_BCC72_CntData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetMarkingCode">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/GetMarkingCode" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="az_SDMarking_ad">
+      <soap12:operation soapAction="http://zulhisham-tan/az_services/az_SDMarking_ad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="az_Services">
+    <wsdl:port name="az_ServicesSoap" binding="tns:az_ServicesSoap">
+      <soap:address location="http://localhost/lmservices/lmservices.asmx" />
+    </wsdl:port>
+    <wsdl:port name="az_ServicesSoap12" binding="tns:az_ServicesSoap12">
+      <soap12:address location="http://localhost/lmservices/lmservices.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

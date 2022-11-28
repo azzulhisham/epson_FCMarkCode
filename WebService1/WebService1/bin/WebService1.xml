@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebService1
+</name>
+</assembly>
+<members>
+<member name="M:WebService1.localhost.Service1.#ctor">
+	<remarks/>
+</member><member name="E:WebService1.localhost.Service1.HelloWorldCompleted">
+	<remarks/>
+</member><member name="M:WebService1.localhost.Service1.HelloWorld">
+	<remarks/>
+</member><member name="M:WebService1.localhost.Service1.HelloWorldAsync">
+	<remarks/>
+</member><member name="M:WebService1.localhost.Service1.HelloWorldAsync(System.Object)">
+	<remarks/>
+</member><member name="M:WebService1.localhost.Service1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:WebService1.localhost.Service1">
+	<remarks/>
+</member><member name="T:WebService1.localhost.HelloWorldCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WebService1.localhost.HelloWorldCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WebService1.localhost.HelloWorldCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

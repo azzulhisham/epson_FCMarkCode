@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UseWebService
+</name>
+</assembly>
+<members>
+<member name="M:WindowsApplication1.localhost.Service1.#ctor">
+	<remarks/>
+</member><member name="E:WindowsApplication1.localhost.Service1.HelloWorldCompleted">
+	<remarks/>
+</member><member name="E:WindowsApplication1.localhost.Service1.azWeekCodeCompleted">
+	<remarks/>
+</member><member name="M:WindowsApplication1.localhost.Service1.HelloWorld">
+	<remarks/>
+</member><member name="M:WindowsApplication1.localhost.Service1.HelloWorldAsync">
+	<remarks/>
+</member><member name="M:WindowsApplication1.localhost.Service1.HelloWorldAsync(System.Object)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.localhost.Service1.azWeekCode(System.String)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.localhost.Service1.azWeekCodeAsync(System.String)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.localhost.Service1.azWeekCodeAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WindowsApplication1.localhost.Service1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:WindowsApplication1.localhost.Service1">
+	<remarks/>
+</member><member name="T:WindowsApplication1.localhost.HelloWorldCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WindowsApplication1.localhost.HelloWorldCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WindowsApplication1.localhost.HelloWorldCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WindowsApplication1.localhost.azWeekCodeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WindowsApplication1.localhost.azWeekCodeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WindowsApplication1.localhost.azWeekCodeCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

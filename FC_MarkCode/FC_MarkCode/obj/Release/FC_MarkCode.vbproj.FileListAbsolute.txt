@@ -1,0 +1,108 @@
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe.config
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.XmlSerializers.dll
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.pdb
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.xml
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\ResolveAssemblyReference.cache
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_DataEntry.resources
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Main.resources
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.Resources.resources
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.vbproj.GenerateResource.Cache
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.exe
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.xml
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.pdb
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.XmlSerializers.dll
+G:\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe.config
+G:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.exe
+G:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.xml
+G:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.pdb
+G:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.XmlSerializers.dll
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode_\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe.config
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode_\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.exe
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode_\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.xml
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode_\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.pdb
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode_\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.XmlSerializers.dll
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe.config
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.exe
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.xml
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.pdb
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.XmlSerializers.dll
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.XmlSerializers.dll
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.pdb
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.xml
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\ResolveAssemblyReference.cache
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_DataEntry.resources
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Main.resources
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.Resources.resources
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.vbproj.GenerateResource.Cache
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Access.resources
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Access.resources
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetNewValue.resources
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SystemBusy.resources
+E:\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetOptionVal.resources
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetNewValue.resources
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetOptionVal.resources
+C:\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SystemBusy.resources
+H:\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe.config
+H:\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.exe
+H:\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.xml
+H:\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.pdb
+H:\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.XmlSerializers.dll
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe.config
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.exe
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.xml
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.pdb
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.XmlSerializers.dll
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.XmlSerializers.dll
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.pdb
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.xml
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\ResolveAssemblyReference.cache
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Access.resources
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Custom.resources
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_DataEntry.resources
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Main.resources
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetNewValue.resources
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetOptionVal.resources
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SystemBusy.resources
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.Resources.resources
+I:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.vbproj.GenerateResource.Cache
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe.config
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.exe
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.xml
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.pdb
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.XmlSerializers.dll
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.XmlSerializers.dll
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.pdb
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.xml
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\ResolveAssemblyReference.cache
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Access.resources
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Custom.resources
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_DataEntry.resources
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Main.resources
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetNewValue.resources
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetOptionVal.resources
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SystemBusy.resources
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.Resources.resources
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.vbproj.GenerateResource.Cache
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe.config
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.exe
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.xml
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.pdb
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.XmlSerializers.dll
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.exe
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.XmlSerializers.dll
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.pdb
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\bin\Release\FC_MarkCode.xml
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\ResolveAssemblyReference.cache
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Access.resources
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Custom.resources
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_DataEntry.resources
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_Main.resources
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetNewValue.resources
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SetOptionVal.resources
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.frm_SystemBusy.resources
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.Resources.resources
+G:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\FC_MarkCode\FC_MarkCode\obj\Release\FC_MarkCode.vbproj.GenerateResource.Cache

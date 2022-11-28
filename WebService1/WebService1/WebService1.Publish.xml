@@ -1,0 +1,44 @@
+<publishData>
+  <publishTarget publishUrl="E:\az_Logics\AI\az_Logics\FC_LMService1\">
+    <file relUrl="bin/bin/bin/WebService1.xml" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="bin/bin/WebService1.dll" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="bin/bin/Web.config" publishTime="01/11/2010 15:50:18" />
+    <file relUrl="bin/bin/bin/WebService1.pdb" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="Web.config" publishTime="01/11/2010 15:50:18" />
+    <file relUrl="bin/WebService1.pdb" publishTime="12/30/2010 12:15:40" />
+    <file relUrl="bin/Service1.asmx" publishTime="01/11/2010 13:35:26" />
+    <file relUrl="Service1.asmx" publishTime="01/11/2010 13:35:26" />
+    <file relUrl="bin/bin/Service1.asmx" publishTime="01/11/2010 13:35:26" />
+    <file relUrl="bin/bin/WebService1.pdb" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="bin/WebService1.XmlSerializers.dll" publishTime="12/30/2010 12:15:40" />
+    <file relUrl="bin/bin/WebService1.XmlSerializers.dll" publishTime="12/22/2010 00:14:19" />
+    <file relUrl="bin/bin/bin/WebService1.XmlSerializers.dll" publishTime="12/22/2010 00:14:19" />
+    <file relUrl="bin/bin/bin/WebService1.dll" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="bin/bin/WebService1.xml" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="bin/Web.config" publishTime="01/11/2010 15:50:18" />
+    <file relUrl="bin/WebService1.xml" publishTime="12/30/2010 12:15:40" />
+    <file relUrl="bin/WebService1.dll" publishTime="12/30/2010 12:15:40" />
+  </publishTarget>
+  <publishTarget publishUrl="E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\bin\">
+    <file relUrl="bin/WebService1.xml" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="bin/bin/WebService1.xml" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="bin/Web.config" publishTime="01/11/2010 15:50:18" />
+    <file relUrl="bin/Service1.asmx" publishTime="01/11/2010 13:35:26" />
+    <file relUrl="bin/WebService1.dll" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="Web.config" publishTime="01/11/2010 15:50:18" />
+    <file relUrl="bin/WebService1.XmlSerializers.dll" publishTime="12/22/2010 00:14:19" />
+    <file relUrl="bin/bin/WebService1.pdb" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="bin/WebService1.pdb" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="bin/bin/WebService1.XmlSerializers.dll" publishTime="12/22/2010 00:14:19" />
+    <file relUrl="bin/bin/WebService1.dll" publishTime="12/22/2010 00:14:17" />
+    <file relUrl="Service1.asmx" publishTime="01/11/2010 13:35:26" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\FC_MarkCode\WebService1\WebService1\bin\">
+    <file relUrl="bin/WebService1.XmlSerializers.dll" publishTime="05/10/2010 10:28:53" />
+    <file relUrl="Service1.asmx" publishTime="01/11/2010 13:35:26" />
+    <file relUrl="bin/WebService1.dll" publishTime="05/10/2010 10:28:52" />
+    <file relUrl="bin/WebService1.xml" publishTime="05/10/2010 10:28:52" />
+    <file relUrl="bin/WebService1.pdb" publishTime="05/10/2010 10:28:52" />
+    <file relUrl="Web.config" publishTime="01/11/2010 15:50:18" />
+  </publishTarget>
+</publishData>

@@ -1,0 +1,33 @@
+E:\AI\ASP\WebService1\WebService1\bin\WebService1.dll
+E:\AI\ASP\WebService1\WebService1\bin\WebService1.pdb
+E:\AI\ASP\WebService1\WebService1\bin\WebService1.xml
+E:\AI\ASP\WebService1\WebService1\obj\Release\ResolveAssemblyReference.cache
+E:\AI\ASP\WebService1\WebService1\obj\Release\WebService1.Resources.resources
+E:\AI\ASP\WebService1\WebService1\obj\Release\WebService1.vbproj.GenerateResource.Cache
+E:\AI\ASP\WebService1\WebService1\obj\Release\WebService1.dll
+E:\AI\ASP\WebService1\WebService1\obj\Release\WebService1.xml
+E:\AI\ASP\WebService1\WebService1\obj\Release\WebService1.pdb
+E:\AI\ASP\WebService1\WebService1\bin\WebService1.XmlSerializers.dll
+E:\AI\ASP\WebService1\WebService1\obj\Release\WebService1.XmlSerializers.dll
+C:\FC_MarkCode\WebService1\WebService1\bin\WebService1.dll
+C:\FC_MarkCode\WebService1\WebService1\bin\WebService1.XmlSerializers.dll
+C:\FC_MarkCode\WebService1\WebService1\bin\WebService1.pdb
+C:\FC_MarkCode\WebService1\WebService1\bin\WebService1.xml
+C:\FC_MarkCode\WebService1\WebService1\obj\Release\ResolveAssemblyReference.cache
+C:\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.Resources.resources
+C:\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.vbproj.GenerateResource.Cache
+C:\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.dll
+C:\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.xml
+C:\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.pdb
+C:\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.XmlSerializers.dll
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\bin\WebService1.dll
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\bin\WebService1.XmlSerializers.dll
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\bin\WebService1.pdb
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\bin\WebService1.xml
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\obj\Release\ResolveAssemblyReference.cache
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.Resources.resources
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.vbproj.GenerateResource.Cache
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.dll
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.xml
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.pdb
+E:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\WebService1\WebService1\obj\Release\WebService1.XmlSerializers.dll
