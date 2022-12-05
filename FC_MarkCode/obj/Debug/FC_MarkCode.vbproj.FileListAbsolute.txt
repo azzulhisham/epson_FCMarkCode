@@ -159,4 +159,5 @@ C:\Users\User\source\repos\epson\FC_MarkCode\FC_MarkCode\obj\Debug\FC_MarkCode.a
 C:\Users\User\source\repos\epson\FC_MarkCode\FC_MarkCode\obj\Debug\FC_MarkCode.exe
 C:\Users\User\source\repos\epson\FC_MarkCode\FC_MarkCode\obj\Debug\FC_MarkCode.xml
 C:\Users\User\source\repos\epson\FC_MarkCode\FC_MarkCode\obj\Debug\FC_MarkCode.pdb
+C:\Users\User\source\repos\epson\FC_MarkCode\FC_MarkCode\obj\Debug\FC_MarkCode.frm_DupMsg.resources
 C:\Users\User\source\repos\epson\FC_MarkCode\FC_MarkCode\obj\Debug\FC_MarkCode.vbproj.AssemblyReference.cache

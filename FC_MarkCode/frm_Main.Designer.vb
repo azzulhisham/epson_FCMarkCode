@@ -1694,9 +1694,9 @@ Partial Class frm_Main
         Me.Label68.ForeColor = System.Drawing.Color.Black
         Me.Label68.Location = New System.Drawing.Point(307, 31)
         Me.Label68.Name = "Label68"
-        Me.Label68.Size = New System.Drawing.Size(75, 14)
+        Me.Label68.Size = New System.Drawing.Size(45, 14)
         Me.Label68.TabIndex = 84
-        Me.Label68.Text = "Char. Height"
+        Me.Label68.Text = "Profiles"
         '
         'cbo_Profiles
         '
@@ -2853,24 +2853,24 @@ Partial Class frm_Main
         '
         Me.ContextMenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.sub_DrawType})
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
-        Me.ContextMenuStrip1.Size = New System.Drawing.Size(205, 26)
+        Me.ContextMenuStrip1.Size = New System.Drawing.Size(203, 26)
         '
         'sub_DrawType
         '
         Me.sub_DrawType.Name = "sub_DrawType"
-        Me.sub_DrawType.Size = New System.Drawing.Size(204, 22)
+        Me.sub_DrawType.Size = New System.Drawing.Size(202, 22)
         Me.sub_DrawType.Text = "Edit Draw Type Selection"
         '
         'ContextMenuStrip2
         '
         Me.ContextMenuStrip2.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.sub_TextAlign})
         Me.ContextMenuStrip2.Name = "ContextMenuStrip2"
-        Me.ContextMenuStrip2.Size = New System.Drawing.Size(202, 26)
+        Me.ContextMenuStrip2.Size = New System.Drawing.Size(201, 26)
         '
         'sub_TextAlign
         '
         Me.sub_TextAlign.Name = "sub_TextAlign"
-        Me.sub_TextAlign.Size = New System.Drawing.Size(201, 22)
+        Me.sub_TextAlign.Size = New System.Drawing.Size(200, 22)
         Me.sub_TextAlign.Text = "Edit Text Align Selection"
         '
         'ContextMenuStrip3

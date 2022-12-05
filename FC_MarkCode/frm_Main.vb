@@ -230,9 +230,10 @@ Public Class frm_Main
 
                         If String.IsNullOrEmpty(fg_Extend) And chkPrevCnt > 0 Then
                             If Convert.ToInt32(FCLSR.Restriction) > 0 Then
-                                MessageBox.Show("This lot already exists in the system. Sorry the system cannot proceed the marking.", "FC_MarkCode...", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
-                                SetMode()
-                                Exit Sub
+                                frm_DupMsg.ShowDialog(Me)
+                                'MessageBox.Show("This lot already exists in the system. Sorry the system cannot proceed the marking.", "FC_MarkCode...", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+                                'SetMode()
+                                'Exit Sub
                             End If
                         Else
                             If Not String.IsNullOrEmpty(fg_Extend) And chkPrevCnt > 0 Then

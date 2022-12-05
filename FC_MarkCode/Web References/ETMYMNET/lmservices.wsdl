@@ -663,10 +663,10 @@
   </wsdl:binding>
   <wsdl:service name="az_Services">
     <wsdl:port name="az_ServicesSoap" binding="tns:az_ServicesSoap">
-      <soap:address location="http://localhost/lmservices/lmservices.asmx" />
+      <soap:address location="http://localhost/LmServices/lmservices.asmx" />
     </wsdl:port>
     <wsdl:port name="az_ServicesSoap12" binding="tns:az_ServicesSoap12">
-      <soap12:address location="http://localhost/lmservices/lmservices.asmx" />
+      <soap12:address location="http://localhost/LmServices/lmservices.asmx" />
     </wsdl:port>
   </wsdl:service>
 </wsdl:definitions>

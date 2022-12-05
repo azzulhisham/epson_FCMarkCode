@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\ClickOnce\|d:\toshiba\az_Logics\AI\VB\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\|c:\toshiba\az_Logics\AI\VB\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\|G:\az_Logics\AI\VB\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\|g:\az_Logics\AI\MyVBProject\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\</PublishUrlHistory>
+    <PublishUrlHistory>C:\Users\User\source\repos\epson\FC_MarkCode\publish\|C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\ClickOnce\|d:\toshiba\az_Logics\AI\VB\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\|c:\toshiba\az_Logics\AI\VB\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\|G:\az_Logics\AI\VB\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\</PublishUrlHistory>
     <InstallUrlHistory>http://172.16.59.254/dnld/az_logics/fc_markcode/</InstallUrlHistory>
     <SupportUrlHistory>
     </SupportUrlHistory>

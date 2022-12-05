@@ -28,7 +28,7 @@
     <OldToolsVersion>3.5</OldToolsVersion>
     <UpgradeBackupLocation />
     <TargetFrameworkProfile />
-    <PublishUrl>C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\ClickOnce\</PublishUrl>
+    <PublishUrl>C:\Users\User\source\repos\epson\FC_MarkCode\publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -43,12 +43,12 @@
     <TargetCulture>en-GB</TargetCulture>
     <ProductName>FC_MarkCode</ProductName>
     <PublisherName>az_IOLogics</PublisherName>
-    <MinimumRequiredVersion>2018.02.8.6</MinimumRequiredVersion>
+    <MinimumRequiredVersion>2022.11.30.7</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>FC_MarkCode.html</WebPage>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>7</ApplicationRevision>
-    <ApplicationVersion>2018.02.8.%2a</ApplicationVersion>
+    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationVersion>2022.11.30.%2a</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -128,6 +128,12 @@
     <Compile Include="frm_DataEntry.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frm_DupMsg.Designer.vb">
+      <DependentUpon>frm_DupMsg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DupMsg.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frm_Main.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -200,6 +206,9 @@
     <EmbeddedResource Include="frm_DataEntry.resx">
       <DependentUpon>frm_DataEntry.vb</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DupMsg.resx">
+      <DependentUpon>frm_DupMsg.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_Main.resx">
       <DependentUpon>frm_Main.vb</DependentUpon>
