@@ -51,7 +51,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>vIKsPcF7ppdc9RN2gkQzDt10gdY=</dsig:DigestValue>
+        <dsig:DigestValue>CwXvWAhnnuxBJHLcHAv8dwjnzAs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -64,13 +64,13 @@
       <dsig:DigestValue>1wCakhDw4wcSze6hW2Yr1qHuFhI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FC_MarkCode.exe.config" size="2394">
+  <file name="FC_MarkCode.exe.config" size="2399">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>VTjEB88RdQWziybGNGCO/Yd2aZ8=</dsig:DigestValue>
+      <dsig:DigestValue>Zp5X01TFhGh3eaL8wRrz7O9ybV0=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
