@@ -817,7 +817,8 @@ Public Class frm_Main
                 .TempSetting = .MarkingSetting(0)
 
                 With Me
-                    Me.DispMarkingSetting()
+                    .ComboBox1.SelectedIndex = 0
+                    .DispMarkingSetting()
                     .btn_Save.Enabled = False
                     .btn_PostSetting.Enabled = False
                 End With
