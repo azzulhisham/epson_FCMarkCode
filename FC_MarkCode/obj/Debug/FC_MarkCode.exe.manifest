@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="FC_MarkCode.exe" version="2023.01.10.8" publicKeyToken="0000000000000000" language="en-GB" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="FC_MarkCode.exe" version="2023.01.10.9" publicKeyToken="0000000000000000" language="en-GB" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="az.ico" asmv2:publisher="az_IOLogics" asmv2:product="FC_MarkCode" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -51,7 +51,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>a5S4/+4/X327BdGRYgm27u+fDLY=</dsig:DigestValue>
+        <dsig:DigestValue>vIKsPcF7ppdc9RN2gkQzDt10gdY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -64,13 +64,13 @@
       <dsig:DigestValue>1wCakhDw4wcSze6hW2Yr1qHuFhI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FC_MarkCode.exe.config" size="2399">
+  <file name="FC_MarkCode.exe.config" size="2394">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Zp5X01TFhGh3eaL8wRrz7O9ybV0=</dsig:DigestValue>
+      <dsig:DigestValue>VTjEB88RdQWziybGNGCO/Yd2aZ8=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
