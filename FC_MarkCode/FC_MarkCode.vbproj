@@ -38,22 +38,22 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://172.16.59.254/dnld/az_logics/fc_markcode/</InstallUrl>
-    <UpdateUrl>http://172.16.59.254/dnld/az_logics/fc_markcode/</UpdateUrl>
+    <InstallUrl>http://20.10.30.2/dnld/az_logics/fc_markcode/</InstallUrl>
+    <UpdateUrl>http://20.10.30.2/dnld/az_logics/fc_markcode/</UpdateUrl>
     <TargetCulture>en-GB</TargetCulture>
     <ProductName>FC_MarkCode</ProductName>
     <PublisherName>az_IOLogics</PublisherName>
-    <MinimumRequiredVersion>2023.01.10.8</MinimumRequiredVersion>
+    <MinimumRequiredVersion>2023.01.10.10</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>FC_MarkCode.html</WebPage>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>9</ApplicationRevision>
+    <ApplicationRevision>11</ApplicationRevision>
     <ApplicationVersion>2023.01.10.%2a</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
     <BootstrapperComponentsLocation>Absolute</BootstrapperComponentsLocation>
-    <BootstrapperComponentsUrl>http://172.16.59.254/dnld/az_logics/fc_markcode/</BootstrapperComponentsUrl>
+    <BootstrapperComponentsUrl>http://20.10.30.2/dnld/az_logics/fc_markcode/</BootstrapperComponentsUrl>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -301,10 +301,10 @@
     <WebReferences Include="Web References\" />
   </ItemGroup>
   <ItemGroup>
-    <WebReferenceUrl Include="http://172.16.59.254/az_services/lmservices.asmx">
+    <WebReferenceUrl Include="http://20.10.30.2/az_services/lmservices.asmx">
       <UrlBehavior>Dynamic</UrlBehavior>
       <RelPath>Web References\ETMYMNET\</RelPath>
-      <UpdateFromURL>http://172.16.59.254/az_services/lmservices.asmx</UpdateFromURL>
+      <UpdateFromURL>http://20.10.30.2/az_services/lmservices.asmx</UpdateFromURL>
       <ServiceLocationURL>
       </ServiceLocationURL>
       <CachedDynamicPropName>

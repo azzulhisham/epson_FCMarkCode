@@ -56,16 +56,6 @@ Namespace My
         
         <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.WebServiceUrl),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("http://172.16.59.254/az_services/lmservices.asmx")>  _
-        Public ReadOnly Property FC_MarkCode_localhost_Service1() As String
-            Get
-                Return CType(Me("FC_MarkCode_localhost_Service1"),String)
-            End Get
-        End Property
-        
-        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.DefaultSettingValueAttribute("0")>  _
         Public ReadOnly Property AppSet() As Integer
             Get
@@ -75,7 +65,17 @@ Namespace My
         
         <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("http://172.16.59.254/az_services/lmservices.asmx")>  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.WebServiceUrl),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("http://20.10.30.2/az_services/lmservices.asmx")>  _
+        Public ReadOnly Property FC_MarkCode_localhost_Service1() As String
+            Get
+                Return CType(Me("FC_MarkCode_localhost_Service1"),String)
+            End Get
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("http://20.10.30.2/az_services/lmservices.asmx")>  _
         Public ReadOnly Property Backup() As String
             Get
                 Return CType(Me("Backup"),String)

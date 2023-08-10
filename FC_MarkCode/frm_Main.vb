@@ -337,7 +337,7 @@ Public Class frm_Main
 
         With My.Computer
             If .Network.IsAvailable = True Then
-                If .Network.Ping("172.16.59.254") Then
+                If .Network.Ping("20.10.30.2") Then
                     Try
                         If System.Deployment.Application.ApplicationDeployment.IsNetworkDeployed AndAlso System.Deployment.Application.ApplicationDeployment.CurrentDeployment.CheckForUpdate Then
                             If Me.btn_DataEntry.Visible = True Then

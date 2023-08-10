@@ -2,11 +2,11 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <PublishUrlHistory>C:\Users\User\source\repos\epson\FC_MarkCode\publish\|C:\Users\Zulhisham\Desktop\epson\FC_MarkCode\ClickOnce\|d:\toshiba\az_Logics\AI\VB\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\|c:\toshiba\az_Logics\AI\VB\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\|G:\az_Logics\AI\VB\VB2008_Project\FC\Laser Marking\FC_MarkCode\ClickOnce\</PublishUrlHistory>
-    <InstallUrlHistory>http://172.16.59.254/dnld/az_logics/fc_markcode/</InstallUrlHistory>
+    <InstallUrlHistory>http://20.10.30.2/dnld/az_logics/fc_markcode/|http://172.16.59.254/dnld/az_logics/fc_markcode/</InstallUrlHistory>
     <SupportUrlHistory>
     </SupportUrlHistory>
-    <UpdateUrlHistory>http://172.16.59.254/dnld/az_logics/fc_markcode/|http://172.16.59.254/dnld/az_Logics/FC_MarkCode/|http://etmymnet/dnld/az_Logics/FC_MarkCode/|http://etmymnet/dnld/az_Logics/PX_Taping_OAI/</UpdateUrlHistory>
-    <BootstrapperUrlHistory>http://172.16.59.254/dnld/az_logics/fc_markcode/</BootstrapperUrlHistory>
+    <UpdateUrlHistory>http://20.10.30.2/dnld/az_logics/fc_markcode/|http://172.16.59.254/dnld/az_logics/fc_markcode/|http://172.16.59.254/dnld/az_Logics/FC_MarkCode/|http://etmymnet/dnld/az_Logics/FC_MarkCode/|http://etmymnet/dnld/az_Logics/PX_Taping_OAI/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>http://20.10.30.2/dnld/az_logics/fc_markcode/|http://172.16.59.254/dnld/az_logics/fc_markcode/</BootstrapperUrlHistory>
     <FallbackCulture>en-US</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
     <ErrorReportUrlHistory />

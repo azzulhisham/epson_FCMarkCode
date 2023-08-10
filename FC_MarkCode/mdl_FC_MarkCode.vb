@@ -223,7 +223,7 @@ Module mdl_FC_MarkCode
                 .Restriction = regSubKey.GetValue("Restriction", "1")
 
                 With .DataBase_
-                    .Server = regSubKey.GetValue("Database_server", "172.16.59.254\SQLEXPRESS")
+                    .Server = regSubKey.GetValue("Database_server", "20.10.30.2\SQLEXPRESS")
                     .Name = regSubKey.GetValue("Database_name", "Marking")
                     .uid = regSubKey.GetValue("Database_uid", "VB-SQL")
                     .pwd = regSubKey.GetValue("Database_pwd", "Anyn0m0us")
