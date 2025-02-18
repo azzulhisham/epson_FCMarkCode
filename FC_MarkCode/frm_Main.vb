@@ -1404,17 +1404,25 @@ Public Class frm_Main
 
             Dim _wkcd() As String = {}
 
-            If Not IsNothing(FCLSR.Lotdata(1).WeekCode) AndAlso FCLSR.Lotdata(1).WeekCode.Contains(","c) Then
-                _wkcd = FCLSR.Lotdata(1).WeekCode.Split(",")
-                FCLSR.Lotdata(1).WeekCode = _wkcd(1) & vbCrLf & "o " & _wkcd(0)
-                SettingPtr(1).Text = _wkcd(1)
-                SettingPtr(2).Text = _wkcd(0)
-            Else
-                If IsNothing(FCLSR.Lotdata(1).WeekCode) Then
-                    SettingPtr(1).Text = "3030"
-                    SettingPtr(2).Text = "AymdS"
-                End If
-            End If
+
+            'If Not IsNothing(FCLSR.Lotdata(1).WeekCode) AndAlso FCLSR.Lotdata(1).WeekCode.Contains(","c) Then
+            '    _wkcd = FCLSR.Lotdata(1).WeekCode.Split(",")
+
+            '    If .cbo_Profiles.SelectedItem.ToString.EndsWith("EX") Then
+            '        FCLSR.Lotdata(1).WeekCode = _wkcd(0) & vbCrLf & "o " & _wkcd(1)
+            '        SettingPtr(1).Text = _wkcd(0)
+            '        SettingPtr(2).Text = _wkcd(1)
+            '    Else
+            '        FCLSR.Lotdata(1).WeekCode = _wkcd(1) & vbCrLf & "o " & _wkcd(0)
+            '        SettingPtr(1).Text = _wkcd(1)
+            '        SettingPtr(2).Text = _wkcd(0)
+            '    End If
+            'Else
+            '    If IsNothing(FCLSR.Lotdata(1).WeekCode) Then
+            '        SettingPtr(1).Text = "3030"
+            '        SettingPtr(2).Text = "AymdS"
+            '    End If
+            'End If
 
 
             If .cbo_Profiles.SelectedItem.Contains("SG") Or
