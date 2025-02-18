@@ -43,11 +43,11 @@
     <TargetCulture>en-GB</TargetCulture>
     <ProductName>FC_MarkCode</ProductName>
     <PublisherName>az_IOLogics</PublisherName>
-    <MinimumRequiredVersion>2025.02.18.14</MinimumRequiredVersion>
+    <MinimumRequiredVersion>2025.02.18.15</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>FC_MarkCode.html</WebPage>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>15</ApplicationRevision>
+    <ApplicationRevision>16</ApplicationRevision>
     <ApplicationVersion>2025.02.18.%2a</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
