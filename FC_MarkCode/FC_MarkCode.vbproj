@@ -43,11 +43,11 @@
     <TargetCulture>en-GB</TargetCulture>
     <ProductName>FC_MarkCode</ProductName>
     <PublisherName>az_IOLogics</PublisherName>
-    <MinimumRequiredVersion>2025.02.18.16</MinimumRequiredVersion>
+    <MinimumRequiredVersion>2025.02.18.17</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>FC_MarkCode.html</WebPage>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>17</ApplicationRevision>
+    <ApplicationRevision>18</ApplicationRevision>
     <ApplicationVersion>2025.02.18.%2a</ApplicationVersion>
     <UseApplicationTrust>true</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -63,7 +63,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DocumentationFile>FC_MarkCode.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
-    <PlatformTarget>x86</PlatformTarget>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -337,6 +337,28 @@
     </None>
     <None Include="Web References\ETMYMNET\lmservices.disco" />
     <None Include="Web References\ETMYMNET\lmservices.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="FC_MarkCode.exe.config">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="FC_MarkCode.exe.manifest">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Auto</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>ManifestEntryPoint</FileType>
+    </PublishFile>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
